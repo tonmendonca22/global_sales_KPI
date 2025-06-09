@@ -19,7 +19,7 @@ I focused on answering the following business questions:
 
 ## 🛠️ Tools & Technologies
 
-* **PostgreSQL / DataWorld** – SQL queries for data exploration
+* **DataWorld** – SQL queries for data exploration
 * **Power BI** – Interactive dashboard and data visualization
 * **GitHub** – Project versioning and documentation
 * **CSV Files** – Raw data loaded into the SQL environment
@@ -50,7 +50,7 @@ These insights were transformed into a **dynamic Power BI dashboard** with filte
 
 ## 📊 Power BI Dashboard Preview
 
-![Dashboard Screenshot](link-to-your-screenshot-or-gif)
+![Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTQ1MTI3NDktZTM4Yi00YTFhLTg2ZjMtMzUzNGM5NTBmNGI5IiwidCI6ImVkYjI3OTMzLWY3OWEtNDNkYS1hZTNhLTNhYzk1ZjE1MDdlYSJ9)
 
 > *(Replace with an image link or upload a screenshot in your repo)*
 
