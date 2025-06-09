@@ -50,7 +50,7 @@ These insights were transformed into a **dynamic Power BI dashboard** with filte
 
 ## 📊 Power BI Dashboard Preview
 
-![Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTQ1MTI3NDktZTM4Yi00YTFhLTg2ZjMtMzUzNGM5NTBmNGI5IiwidCI6ImVkYjI3OTMzLWY3OWEtNDNkYS1hZTNhLTNhYzk1ZjE1MDdlYSJ9)
+![Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjkzNWVkZmUtYjA1Ny00YmRhLTgzNTAtYjI5Zjk0NzZiNjhiIiwidCI6ImVkYjI3OTMzLWY3OWEtNDNkYS1hZTNhLTNhYzk1ZjE1MDdlYSJ9)
 
 The dashboard includes:
 
