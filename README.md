@@ -52,43 +52,11 @@ These insights were transformed into a **dynamic Power BI dashboard** with filte
 
 ![Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTQ1MTI3NDktZTM4Yi00YTFhLTg2ZjMtMzUzNGM5NTBmNGI5IiwidCI6ImVkYjI3OTMzLWY3OWEtNDNkYS1hZTNhLTNhYzk1ZjE1MDdlYSJ9)
 
-> *(Replace with an image link or upload a screenshot in your repo)*
-
 The dashboard includes:
 
 * KPI panel: Total Revenue, Avg. Shipping Cost, Profit Margin
 * Visuals for revenue by shipping mode, profit by category, and margin trend by month
 * Slicers by market, region, and category for easy exploration
-
----
-
-## 📁 Repository Structure
-
-```
-📦 e-commerce-sql-powerbi
-├── data/
-│   ├── global_sales.csv
-│   ├── global_orders.csv
-│   ├── global_products.csv
-│   └── global_customers.csv
-├── sql/
-│   └── analysis_queries.sql
-├── dashboard/
-│   └── powerbi_dashboard.pbix
-├── images/
-│   └── dashboard_preview.png
-├── README.md
-```
-
----
-
-## 🚀 How to Use
-
-1. Clone the repository
-2. Import the CSV files into a PostgreSQL database or DataWorld
-3. Run the SQL queries from `sql/analysis_queries.sql`
-4. Open the `.pbix` file in Power BI to explore the dashboard
-5. Use filters to generate insights for specific segments or time periods
 
 ---
 
@@ -105,8 +73,7 @@ The dashboard includes:
 
 If this project sparked your interest or helped you in any way, feel free to:
 
-* ⭐ Star this repository
 * 📝 Leave feedback or open an issue
-* 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/seu-perfil)
+* 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/erivelton-mendonca/)
 
 Let’s keep transforming data into meaningful action—one query and one dashboard at a time.
